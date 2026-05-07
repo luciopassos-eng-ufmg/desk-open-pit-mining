@@ -39,6 +39,9 @@ from desk.visualization.interface import run_visualization
 # 3) 15 caminhões convencionais
 # 4) 15 caminhões auotônomos
 
+# O objetivo é avaliar o impacto em utilização e produção no comparativo entre caminhões 
+# convencionais (operador humano) e caminhões autônomos. 
+
 FROTA = 15 #15/26
 AUTONOMO = True  #True/False
 # #######################################################################################
