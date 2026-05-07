@@ -1,4 +1,4 @@
-# DESK — Discrete Event Simulation Kit
+# DESK — Open Pit Mining
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18088013.svg)](https://doi.org/10.5281/zenodo.18088013)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
